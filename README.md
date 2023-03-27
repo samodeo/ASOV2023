@@ -1,2 +1,5 @@
 # ASOV2023
 Tutorial on CDS services presented at ASOV 2023
+
+Python scripts in Jupyter notebooks are an ideal tool for providing an accessible and reproducible workflow that contains all the elements necessary for conducting a research analysis. In fact, astronomers can search, access, and combine data from archives across the world, provided that they are compliant with Virtual Observatory protocols and standards. This tutorial about the CDS tools demonstrates how to search for data with SIMBAD, find and use catalogues from Vizier, interactively visualise catalogues and survey images using Aladin; use Hierarchical Progressive Surveys (HiPS) and Multi-Order Coverage maps (MOCs) to explore large catalogues and work with arbitrary sky regions, which have recently been extended to support both spatial and temporal coverages for multi-wavelength and multi-messenger observations.
+
